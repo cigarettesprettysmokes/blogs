@@ -3,7 +3,7 @@
 - Password Generator: [https://cigarettesprettysmokes.pages.dev/password/](https://cigarettesprettysmokes.pages.dev/password/)
 - Deezer Artwork Finder: [https://cigarettesprettysmokes.pages.dev/deezer/](https://cigarettesprettysmokes.pages.dev/deezer/)
 - Emoji Memory: [https://cigarettesprettysmokes.pages.dev/memory/](https://cigarettesprettysmokes.pages.dev/memory/)
-- Username Generator: [https://cigarettesprettysmokes.pages.dev/memory/](https://cigarettesprettysmokes.pages.dev/username/)
+- Username Generator: [https://cigarettesprettysmokes.pages.dev/username/](https://cigarettesprettysmokes.pages.dev/username/)
 
 ---
 
